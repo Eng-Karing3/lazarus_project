@@ -1,0 +1,1 @@
+Django\ndjangorestframework\ndjangorestframework-simplejwt
